@@ -7,9 +7,9 @@ This porject contain files for deploying a machine leaning app on AWS using dock
 
 Initialize a cloud9 environment 
 
-modify the EC2 instance volume (at least 25GB)
+Modify the EC2 instance volume (at least 25GB)
 
-make a python env
+Make a python env.
 
 
 
