@@ -5,7 +5,7 @@ This porject contain files for deploying a machine leaning app on AWS using dock
 
 # Steps
 
-Initialize a cloud9 environment 
+Initialize a cloud9 environment with an Ubuntu 18.04 AMI
 
 Modify the EC2 instance volume (at least 25GB)
 
@@ -22,13 +22,14 @@ https://github.com/hadolint/hadolint/
 Install "haskel" first then "stack".
 
 #### Haskel: 
-sudo apt-get install haskell-platform
+`sudo apt-get install haskell-platform`
 
 #### stack:
-curl -sSL https://get.haskellstack.org/ | sh
+`curl -sSL https://get.haskellstack.org/ | sh`
 
 #### hadolint
-git clone https://github.com/hadolint/hadolint
+`git clone https://github.com/hadolint/hadolint
 cd hadolint
-stack install
+stack install`
+
 
