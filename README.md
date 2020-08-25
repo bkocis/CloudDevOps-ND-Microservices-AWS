@@ -1,4 +1,6 @@
 
+[![bkocis](https://circleci.com/gh/bkocis/CloudDevOps-ND-Microservices-AWS.svg?style=svg)](https://app.circleci.com/pipelines/github/bkocis/CloudDevOps-ND-Microservices-AWS)
+
 # Description
 
 This porject contain files for deploying a machine leaning app on AWS using docker. The project is focused in the steps of building and linting the infrastructure of the app. 
