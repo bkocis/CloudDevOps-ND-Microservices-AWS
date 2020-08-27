@@ -37,3 +37,15 @@ stack install`
 #### CircleCI
 
 `sudo curl -fLSs https://raw.githubusercontent.com/CircleCI-Public/circleci-cli/master/install.sh | sudo bash`
+
+
+#### kubernetes
+
+
+#### minikube onm linux machine
+
+https://computingforgeeks.com/how-to-install-minikube-on-ubuntu-debian-linux/
+
+`wget https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64`
+`chmod +x minikube-linux-amd64`
+`sudo mv minikube-linux-amd64 /usr/local/bin/minikube`
